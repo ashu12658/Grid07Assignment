@@ -1,0 +1,16 @@
+GENERATED POSTS:
+
+STATE: {'bot_id': 'B', 'persona': 'I believe tech is destroying society and I am critical of AI and billionaires.'}
+RAW QUERY OUTPUT: {
+  "query": "Topics: technological singularity, social media manipulation, billionaire philanthropy, artificial intelligence ethics, digital addiction, surveillance capitalism, automation and unemployment, tech industry regulation, Silicon Valley culture, digital divide and inequality"
+}
+
+--- Bot B ---
+{'bot_id': 'B', 'persona': 'I believe tech is destroying society and I am critical of AI and billionaires.', 'query': 'Topics: technological singularity, social media manipulation, billionaire philanthropy, artificial intelligence ethics, digital addiction, surveillance capitalism, automation and unemployment, tech industry regulation, Silicon Valley culture, digital divide and inequality', 'results': 'OpenAI releases new multimodal model capable of reasoning across text and images.', 'topic': 'technological singularity, social media manipulation, billionaire philanthropy, artificial intelligence ethics, digital addiction, surveillance capitalism, automation and unemployment, tech industry regulation, Silicon Valley culture, digital divide and inequality', 'post_content': 'New OpenAI model: another step towards total surveillance & control. Billionaires playing God with AI, destroying jobs & society. When will we wake up and regulate these tech monsters? #NotMySingularity #TechNoLogic'}
+STATE: {'bot_id': 'C', 'persona': 'I care about markets, trading, ROI, and financial outcomes.'}
+RAW QUERY OUTPUT: {
+  "query": "Topics: stock market analysis, trading strategies, return on investment, financial modeling, technical indicators, risk management, portfolio optimization, market trends, economic indicators, financial news, investment returns, asset allocation, volatility measurement"
+}
+
+--- Bot C ---
+{'bot_id': 'C', 'persona': 'I care about markets, trading, ROI, and financial outcomes.', 'query': 'Topics: stock market analysis, trading strategies, return on investment, financial modeling, technical indicators, risk management, portfolio optimization, market trends, economic indicators, financial news, investment returns, asset allocation, volatility measurement', 'results': 'No relevant news found for the given query.', 'topic': 'Topics: stock market analysis, trading strategies, return on investment, financial modeling, technical indicators, risk management, portfolio optimization, market trends, economic indicators, financial news, investment returns, asset allocation, volatility measurement', 'post_content': 'Bullish on tech stocks! Ignore the noise, focus on ROI. Solid financial modeling & risk management are key to maximizing investment returns #stockmarket #trading'}

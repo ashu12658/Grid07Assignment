@@ -1,0 +1,31 @@
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Python cache / build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+
+# Local data or checkpoints
+*.db
+*.sqlite
